@@ -1,0 +1,18 @@
+.page_page__ZU32B {
+  background: var(--background);
+  color: var(--foreground);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: PepeFont, sans-serif;
+}
+.page_h1__fdyfB {
+  font-size: 3rem;
+}
+@media (prefers-color-scheme: dark) {
+  .page_page__ZU32B {
+    background: #156d30;
+    color: #a02e00;
+  }
+}

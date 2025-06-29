@@ -1,0 +1,58 @@
+@font-face {
+  font-family: PepeFont;
+  src: url(/fonts/GentyDemo-Regular.ttf) format("truetype"),
+    url(/fonts/GentyDemo-Regular.otf) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: SecondaryFont;
+  src: url(/fonts/Comfortaa-VariableFont_wght.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: ThirdFont;
+  src: url(/fonts/Evermore.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+:root {
+  --background: #156d30;
+  --foreground: #a02e00;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #156d30;
+    --foreground: #a02e00;
+  }
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: PepeFont, sans-serif;
+  color: var(--foreground) !important;
+  background-color: var(--background) !important;
+  scroll-behavior: smooth;
+  height: 100%;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+  body,
+  html {
+    background: #156d30;
+    color: #6cb947;
+  }
+}
