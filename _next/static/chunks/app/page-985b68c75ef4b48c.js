@@ -203,7 +203,7 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/BabyPepe_OnEth",
                           },
                           {
                             label: "Telegram",
@@ -306,7 +306,7 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/BabyPepe_OnEth",
                           },
                           {
                             label: "Telegram",
@@ -653,7 +653,7 @@
                   }),
                 }),
                 (0, a.jsx)(u.Link, {
-                  href: "https://x.com/babypepe_memes",
+                  href: "https://x.com/BabyPepe_OnEth",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     icon: (0, a.jsx)(w.LCd, { size: t }),
@@ -1108,7 +1108,7 @@
                   }),
                 },
                 {
-                  href: "https://x.com/babypepe_memes",
+                  href: "https://x.com/BabyPepe_OnEth",
                   label: "X",
                   logo: (0, a.jsx)(w.LCd, {
                     size: 40,

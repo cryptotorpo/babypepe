@@ -318,7 +318,7 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/BabyPepe_OnEth",
                           },
                           {
                             label: "Telegram",
@@ -421,7 +421,7 @@
                         options: [
                           {
                             label: "Twitter",
-                            href: "https://x.com/babypepe_memes",
+                            href: "https://x.com/BabyPepe_OnEth",
                           },
                           {
                             label: "Telegram",
