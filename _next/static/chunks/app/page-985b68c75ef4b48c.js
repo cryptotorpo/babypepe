@@ -680,7 +680,7 @@
                   }),
                 }),
                 (0, a.jsxs)(u.Link, {
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8d7976035235913d4694705455ef7ce1e16a9dc3?t=1751233418658",
                   isExternal: !0,
                   target: "_blank",
                   rel: "noopener noreferrer",
@@ -1090,7 +1090,7 @@
           let e = (0, l.useMemo)(
               () => [
                 {
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8d7976035235913d4694705455ef7ce1e16a9dc3?t=1751233418658",
                   label: "DexTools",
                   logo: "/logos/dextools.svg",
                 },
@@ -1622,7 +1622,7 @@
                 }),
               }),
               (0, a.jsx)(J.default, {
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8d7976035235913d4694705455ef7ce1e16a9dc3?t=1751233418658",
                 passHref: !0,
                 children: (0, a.jsxs)(U.Button, {
                   backgroundColor: "rgba(50, 50, 50, 0.6)",
