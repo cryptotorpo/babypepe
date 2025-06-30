@@ -207,7 +207,7 @@
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/babypepe_oneth",
+                            href: "https://t.me/babypepe_eth_channel",
                           },
                         ],
                       }),
@@ -216,7 +216,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                           }
                         ],
                       }),
@@ -310,7 +310,7 @@
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/babypepe_oneth",
+                            href: "https://t.me/babypepe_eth_channel",
                           },
                         ],
                       }),
@@ -319,7 +319,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
@@ -642,7 +642,7 @@
               mt: { base: 2, md: 0 },
               children: [
                 (0, a.jsx)(u.Link, {
-                  href: "https://t.me/babypepe_oneth",
+                  href: "https://t.me/babypepe_eth_channel",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     icon: (0, a.jsx)(h.Ww5, { size: t }),
@@ -664,7 +664,7 @@
                   }),
                 }),
                 (0, a.jsx)(u.Link, {
-                  href: "https://dexscreener.com/ethereum/0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                  href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     "aria-label": "DexScreener",
@@ -1020,7 +1020,7 @@
                     children: e
                       ? (0, a.jsx)("iframe", {
                           id: "uniswap-iframe",
-                          src: "https://app.uniswap.org/#/swap?outputCurrency=0x2df6456186f81c733f76cc561d07b05f785cbe05&chain=mainnet",
+                          src: "https://app.uniswap.org/#/swap?outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet",
                           width: "300px",
                           height: "510px",
                           style: {
@@ -1095,12 +1095,12 @@
                   logo: "/logos/dextools.svg",
                 },
                 {
-                  href: "https://dexscreener.com/ethereum/0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                  href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
                   label: "DexScreener",
                   logo: "/logos/dexsxcreener.png",
                 },
                 {
-                  href: "https://t.me/babypepe_oneth",
+                  href: "https://t.me/babypepe_eth_channel",
                   label: "Telegram",
                   logo: (0, a.jsx)(h.Ww5, {
                     size: 40,
@@ -1293,7 +1293,7 @@
                       fontFamily: "'SecondaryFont', sans-serif",
                       textShadow:
                         "0.5px 0.5px 0 black, -0.5px 0.5px 0 black, 0.5px -0.5px 0 black, -0.5px -0.5px 0 black",
-                      children: "0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                      children: "0x00000000000000000000000000000000000000",
                     }),
                   ],
                 }),
@@ -1589,7 +1589,7 @@
             mb: 12,
             children: [
               (0, a.jsx)(J.default, {
-                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                 passHref: !0,
                 children: (0, a.jsxs)(U.Button, {
                   backgroundColor: "rgba(50, 50, 50, 0.6)",
@@ -1748,7 +1748,7 @@
                 mt: 240,
                 children: (0, a.jsxs)(U.Button, {
                   as: "a",
-                  href: "https://t.me/babypepe_oneth",
+                  href: "https://t.me/babypepe_eth_channel",
                   backgroundColor: "rgba(0, 0, 0, 0.5)",
                   color: "white",
                   width: "90%",

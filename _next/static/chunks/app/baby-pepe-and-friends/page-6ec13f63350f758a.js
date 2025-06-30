@@ -408,7 +408,7 @@
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/babypepe_oneth",
+                            href: "https://t.me/babypepe_eth_channel",
                           },
                         ],
                       }),
@@ -417,7 +417,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                           }
                         ],
                       }),
@@ -511,7 +511,7 @@
                           },
                           {
                             label: "Telegram",
-                            href: "https://t.me/babypepe_oneth",
+                            href: "https://t.me/babypepe_eth_channel",
                           },
                         ],
                       }),
@@ -520,7 +520,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2df6456186f81c733f76cc561d07b05f785cbe05",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
