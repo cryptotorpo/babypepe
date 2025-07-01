@@ -216,7 +216,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x1534d182e57389217c3168746fba76a2f8e7f299",
                           }
                         ],
                       }),
@@ -319,7 +319,7 @@
                         options: [
                           {
                             label: "Uniswap",
-                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
+                            href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x1534d182e57389217c3168746fba76a2f8e7f299",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
@@ -664,7 +664,7 @@
                   }),
                 }),
                 (0, a.jsx)(u.Link, {
-                  href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+                  href: "https://dexscreener.com/ethereum/0x1534d182e57389217c3168746fba76a2f8e7f299",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     "aria-label": "DexScreener",
@@ -1020,7 +1020,7 @@
                     children: e
                       ? (0, a.jsx)("iframe", {
                           id: "uniswap-iframe",
-                          src: "https://app.uniswap.org/#/swap?outputCurrency=0x00000000000000000000000000000000000000&chain=mainnet",
+                          src: "https://app.uniswap.org/#/swap?outputCurrency=0x1534d182e57389217c3168746fba76a2f8e7f299&chain=mainnet",
                           width: "300px",
                           height: "510px",
                           style: {
@@ -1095,7 +1095,7 @@
                   logo: "/logos/dextools.svg",
                 },
                 {
-                  href: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+                  href: "https://dexscreener.com/ethereum/0x1534d182e57389217c3168746fba76a2f8e7f299",
                   label: "DexScreener",
                   logo: "/logos/dexsxcreener.png",
                 },
@@ -1293,7 +1293,7 @@
                       fontFamily: "'SecondaryFont', sans-serif",
                       textShadow:
                         "0.5px 0.5px 0 black, -0.5px 0.5px 0 black, 0.5px -0.5px 0 black, -0.5px -0.5px 0 black",
-                      children: "0x00000000000000000000000000000000000000",
+                      children: "0x1534d182e57389217c3168746fba76a2f8e7f299",
                     }),
                   ],
                 }),
@@ -1589,7 +1589,7 @@
             mb: 12,
             children: [
               (0, a.jsx)(J.default, {
-                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x00000000000000000000000000000000000000",
+                href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x1534d182e57389217c3168746fba76a2f8e7f299",
                 passHref: !0,
                 children: (0, a.jsxs)(U.Button, {
                   backgroundColor: "rgba(50, 50, 50, 0.6)",
