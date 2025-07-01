@@ -664,7 +664,7 @@
                   }),
                 }),
                 (0, a.jsx)(u.Link, {
-                  href: "https://dexscreener.com/ethereum/0xb8d2e326c772758b3792492ba970c8ac2008c362ethereum/0x1534d182e57389217c3168746fba76a2f8e7f299",
+                  href: "https://dexscreener.com/ethereum/0xb8d2e326c772758b3792492ba970c8ac2008c362",
                   isExternal: !0,
                   children: (0, a.jsx)(r.IconButton, {
                     "aria-label": "DexScreener",
@@ -1095,7 +1095,7 @@
                   logo: "/logos/dextools.svg",
                 },
                 {
-                  href: "https://dexscreener.com/ethereum/0xb8d2e326c772758b3792492ba970c8ac2008c362ethereum/0x1534d182e57389217c3168746fba76a2f8e7f299",
+                  href: "https://dexscreener.com/ethereum/0xb8d2e326c772758b3792492ba970c8ac2008c362",
                   label: "DexScreener",
                   logo: "/logos/dexsxcreener.png",
                 },
